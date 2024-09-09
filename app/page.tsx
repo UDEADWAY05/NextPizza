@@ -1,4 +1,5 @@
 import { Categories, Container, SortPopup, Title, TopBar } from "@/components/shared";
+import { Filters } from "@/components/shared";
 import { Button } from "@/components/ui";
 
 //1:07:45

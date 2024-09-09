@@ -1,6 +1,7 @@
 
 import { FC } from "react";
 import { Title } from "./title";
+import { FilterCheckbox } from "./filter-checkbox";
 
 type Props = {
     className?: string;
